@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: 'DMSans-Regular';
+        src: url('../public/fonts/DMSans-Regular.ttf') format('truetype');
+        font-weight: 700;
+    }
+
+}
